@@ -1,0 +1,13 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.plus-btn-xl {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    padding: 20px;
+    background-color: #4e73df;
+    color: white;
+    border-radius: 50%;
+}
