@@ -1,6 +1,6 @@
 This project can be used as a startup for a new Vue3 Project
 
-# front-end-app
+# Vue3 App
 NODE VER 14
 
 ## Project setup
